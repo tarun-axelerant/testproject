@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="81666" started-at="2017-12-27T05:59:25Z" finished-at="2017-12-27T06:00:46Z">
+  <suite name="Default suite" duration-ms="19617" started-at="2018-01-15T12:15:31Z" finished-at="2018-01-15T12:15:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="81666" started-at="2017-12-27T05:59:25Z" finished-at="2017-12-27T06:00:46Z">
+    <test name="Default test" duration-ms="19617" started-at="2018-01-15T12:15:31Z" finished-at="2018-01-15T12:15:50Z">
       <class name="com.test.filehandling.Apache_Config">
-        <test-method status="PASS" signature="readApacheConfig()[pri:0, instance:com.test.filehandling.Apache_Config@7c6908d7]" name="readApacheConfig" duration-ms="81639" started-at="2017-12-27T11:29:25Z" finished-at="2017-12-27T11:30:46Z">
+        <test-method status="PASS" signature="readApacheConfig()[pri:0, instance:com.test.filehandling.Apache_Config@4671e53b]" name="readApacheConfig" duration-ms="19587" started-at="2018-01-15T17:45:31Z" finished-at="2018-01-15T17:45:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readApacheConfig -->
